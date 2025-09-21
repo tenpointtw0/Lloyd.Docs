@@ -1,0 +1,20 @@
+title: Lloyd Chess Engine - Benchmarks
+description: Performance benchmark tracking for Lloyd chess engine
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+markdown: kramdown
+highlighter: rouge
+
+# GitHub Pages settings
+github:
+  repository_url: https://github.com/tenpointtw0/Lloyd.Docs
+
+# Navigation
+header_pages:
+  - README.md
+
+# Show excerpts on homepage
+show_excerpts: true
