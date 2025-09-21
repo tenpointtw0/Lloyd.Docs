@@ -1,10 +1,11 @@
 title: Lloyd Chess Engine - Benchmarks
 description: Performance benchmark tracking for Lloyd chess engine
-theme: minima
+remote_theme: pages-themes/midnight@v0.2.0
 plugins:
   - jekyll-feed
   - jekyll-sitemap
-
+  - jekyll-remote-theme # add this line to the plugins list if you already have one
+  
 markdown: kramdown
 highlighter: rouge
 
